@@ -1,7 +1,8 @@
 Open QGIS 
-Load data : Texte délimité 
+Load data : Delimitated text
 - 1_ADS_RELOCALIZED.csv
 - x = x
 - y = y 
 Export as .shp : 1_ADS_RELOCALIZED.shp (C: VILLE/___.shp)
 Go to R.
+
